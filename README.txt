@@ -1,0 +1,1 @@
+Explain how to play the game to a new user here.
